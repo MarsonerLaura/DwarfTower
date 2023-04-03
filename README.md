@@ -17,7 +17,7 @@
 ---
 
 <p>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229472589-dbc11e4c-ef85-468f-9c81-d3d469900246.png">
  <br>
  <br>
 <h1>About</h1>
@@ -181,5 +181,48 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 </details> 
 -->
 
+<h2>Game Design Process</h2>
+<details>
+ <summary>Story</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  To summarize the features and technologies used the final presentation is linked below:
+ > 
+ > </div>
+ > <br>
+ 
+</details> 
+
+<details>
+ <summary>Gameplay</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  To summarize the features and technologies used the final presentation is linked below:
+ >  <br>
+ >
+ > </div>
+ > <br>
+ 
+</details> 
+<details>
+ <summary>Level Design Process</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  
+ >  <br>
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474718-86156057-936e-4639-b6be-1a7d6a493a5e.png">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474782-e6695b85-f3e6-4623-8396-6aead4a1f96c.png">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474831-79b7d189-cb4f-40b7-974a-66b3c3f88579.png">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474863-518e66ce-d1a3-4353-bbc2-cc07bb774243.png">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474892-b776e17d-a615-4828-b3a2-87927df9e119.png">
+ >  <img width="90%" height="auto" src="">
+ >  <img width="90%" height="auto" src="">
+ > </div>
+ > <br>
+ 
+</details> 
 
 </p>
