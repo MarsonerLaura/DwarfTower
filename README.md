@@ -213,13 +213,23 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <div align="center">
  >  
  >  <br>
+ >  Initial Prototype
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474718-86156057-936e-4639-b6be-1a7d6a493a5e.png">
+ >  <br>
+ >  Assets
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474782-e6695b85-f3e6-4623-8396-6aead4a1f96c.png">
+ >  <br>
+ >  Light Baking & Post Processing
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229475909-ef819f0a-e923-4740-a429-5398f32dfae7.png">
+ >  <br>
+ >  Details and VFX
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474831-79b7d189-cb4f-40b7-974a-66b3c3f88579.png">
- >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474863-518e66ce-d1a3-4353-bbc2-cc07bb774243.png">
+ >  <br>
+ >  Level Design Decisions
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474892-b776e17d-a615-4828-b3a2-87927df9e119.png">
- >  <img width="90%" height="auto" src="">
- >  <img width="90%" height="auto" src="">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474863-518e66ce-d1a3-4353-bbc2-cc07bb774243.png">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229475961-e0ff54cf-c4d2-4bed-8c6c-75bfaab2eed1.png">
+
  > </div>
  > <br>
  
