@@ -197,16 +197,21 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Gameplay</summary>
  <br>
+ 
  > <details> 
  >  <summary>Towers</summary>
  >  <div align="center">
  >  Electro Tower Before
+ >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505972-6821954c-7049-4531-aa9f-0194f42ef641.gif">
  >  Electro Tower After
+ >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229516308-b7b7e6b4-65df-406a-a560-cf7fe25a60c1.gif">
  >  Speed Tower Before
+ >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517032-fa907571-e919-455f-9ae0-9d2885f9b976.gif">
  >  Speed Tower After
+ >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517170-927ce515-75e3-4a05-a1cb-adbf21cfc0f6.gif">
  >  </div>
  >  <br>
@@ -216,6 +221,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <summary>Player-Tower Interaction</summary>
  >  <div align="center">
  >  Players can pick up towers by pressing the respective key that shows up and also place them. As it is a local multiplayer game the key depends on the player.
+ >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229515511-1569be7d-8551-41d0-93f8-833a62f2ff9c.gif">
  >  </div>
  >  <br>
@@ -225,6 +231,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <summary>Collect Coins</summary>
  >  <div align="center">
  >  Players can collect coins by running through them. These coins can be used to buy upgrades for towers.
+ >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505912-eed1e5df-42a1-4cf4-830d-ad9d248848bb.gif">
  >  </div>
  >  <br>
@@ -234,6 +241,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <summary>Enemies</summary>
  >  <div align="center">
  >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
+ >  <br>
  >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
  >  </div>
  >  <br>
@@ -243,6 +251,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <summary>Wave Manager</summary>
  >  <div align="center">
  >  Is used to configure enemy wave spawning for the levels.
+ >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
  >  </div>
  >  <br>
@@ -252,9 +261,11 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <summary>Tools</summary>
  >  <div align="center">
  >  Random Object Placement
+ >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
  >  <br>
  >  Enemy Prefab Creation
+ >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
  >  </div>
  >  <br>
