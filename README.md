@@ -187,8 +187,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <br>
  
  >  <div align="center">
- >  To summarize the features and technologies used the final presentation is linked below:
- > 
+ >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
  > </div>
  > <br>
  
@@ -197,22 +197,82 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Gameplay</summary>
  <br>
- 
+ > <details> 
+ >  <summary>Towers</summary>
  >  <div align="center">
- >  To summarize the features and technologies used the final presentation is linked below:
- >  <br>
  >
- > </div>
- > <br>
+ >  <img width="100%" height="auto" src="">
+ >  </div>
+ >  <br>
+ > </details>
+ 
+ <br>
+ 
+ > <details> 
+ >  <summary>Player-Tower Interaction</summary>
+ >  <div align="center">
+ >
+ >  <img width="100%" height="auto" src="">
+ >  </div>
+ >  <br>
+ > </details>
+  
+ <br>
+ 
+ > <details> 
+ >  <summary>Collect Coins</summary>
+ >  <div align="center">
+ >
+ >  <img width="100%" height="auto" src="">
+ >  </div>
+ >  <br>
+ > </details>
+   
+ <br>
+ 
+ > <details> 
+ >  <summary>Enemies</summary>
+ >  <div align="center">
+ >![image25](https://user-images.githubusercontent.com/104200268/229503736-d5b552b3-51f9-48bd-8676-e5e056b45837.png)
+![image33](https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif)
+
+ >  <img width="100%" height="auto" src="">
+ >  </div>
+ >  <br>
+ > </details>
+   
+ <br>
+ 
+ > <details> 
+ >  <summary>Wave Manager</summary>
+ >  <div align="center">
+ >![image14](https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png)
+
+ >  <img width="100%" height="auto" src="">
+ >  </div>
+ >  <br>
+ > </details>
+ 
+ <br>
+ 
+ > <details> 
+ >  <summary>Tools</summary>
+ >  <div align="center">
+ >![image23](https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png)
+![image24](https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png)
+
+ >  <img width="100%" height="auto" src="">
+ >  </div>
+ >  <br>
+ > </details>
  
 </details> 
+
 <details>
  <summary>Level Design Process</summary>
  <br>
  
  >  <div align="center">
- >  
- >  <br>
  >  Initial Prototype
  >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229474718-86156057-936e-4639-b6be-1a7d6a493a5e.png">
  >  <br>
