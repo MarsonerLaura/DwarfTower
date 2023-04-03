@@ -200,7 +200,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Towers</summary>
  >  <div align="center">
- >
+ > >![image17](https://user-images.githubusercontent.com/104200268/229505972-6821954c-7049-4531-aa9f-0194f42ef641.gif)
  >  <img width="100%" height="auto" src="">
  >  </div>
  >  <br>
@@ -211,7 +211,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Player-Tower Interaction</summary>
  >  <div align="center">
- >
+ >  Players can pick up towers by pressing the respective key that shows up and also place them. As it is a local multiplayer game the key depends on the player.
  >  <img width="100%" height="auto" src="">
  >  </div>
  >  <br>
@@ -222,8 +222,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Collect Coins</summary>
  >  <div align="center">
- >
- >  <img width="100%" height="auto" src="">
+ >  Players can collect coins by running through them. These coins can be used to buy upgrades for towers.
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505912-eed1e5df-42a1-4cf4-830d-ad9d248848bb.gif">
  >  </div>
  >  <br>
  > </details>
@@ -233,10 +233,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Enemies</summary>
  >  <div align="center">
- >![image25](https://user-images.githubusercontent.com/104200268/229503736-d5b552b3-51f9-48bd-8676-e5e056b45837.png)
-![image33](https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif)
-
- >  <img width="100%" height="auto" src="">
+ >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503736-d5b552b3-51f9-48bd-8676-e5e056b45837.png">
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
  >  </div>
  >  <br>
  > </details>
@@ -246,9 +245,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Wave Manager</summary>
  >  <div align="center">
- >![image14](https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png)
-
- >  <img width="100%" height="auto" src="">
+ >  Is used to configure enemy wave spawning for the levels.
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
  >  </div>
  >  <br>
  > </details>
@@ -258,10 +256,11 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Tools</summary>
  >  <div align="center">
- >![image23](https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png)
-![image24](https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png)
-
- >  <img width="100%" height="auto" src="">
+ >  Random Object Placement
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
+ >  <br>
+ >  Enemy Prefab Creation
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
  >  </div>
  >  <br>
  > </details>
