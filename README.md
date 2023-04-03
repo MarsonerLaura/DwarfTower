@@ -196,11 +196,11 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 <details>
  <summary>Gameplay</summary>
- <br>
  
  > <details> 
  >  <summary>Towers</summary>
  >  <div align="center">
+ >  The Electro Tower shoots bullets that target and follow enemies and damage them.
  >  Electro Tower Before
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517032-fa907571-e919-455f-9ae0-9d2885f9b976.gif">
@@ -209,6 +209,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517170-927ce515-75e3-4a05-a1cb-adbf21cfc0f6.gif">
  >  <br>
+ >  The Speed Tower speeds up the players that are in range which helps them collect coins and move towers faster.
  >  Speed Tower Before
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229516308-b7b7e6b4-65df-406a-a560-cf7fe25a60c1.gif">
