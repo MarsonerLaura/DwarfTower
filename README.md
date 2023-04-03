@@ -188,7 +188,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
  >  <div align="center">
  >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
  > </div>
  > <br>
  
@@ -200,67 +200,62 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Towers</summary>
  >  <div align="center">
- > >![image17](https://user-images.githubusercontent.com/104200268/229505972-6821954c-7049-4531-aa9f-0194f42ef641.gif)
- >  <img width="100%" height="auto" src="">
+ >  Electro Tower Before
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505972-6821954c-7049-4531-aa9f-0194f42ef641.gif">
+ >  Electro Tower After
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229516308-b7b7e6b4-65df-406a-a560-cf7fe25a60c1.gif">
+ >  Speed Tower Before
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517032-fa907571-e919-455f-9ae0-9d2885f9b976.gif">
+ >  Speed Tower After
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517170-927ce515-75e3-4a05-a1cb-adbf21cfc0f6.gif">
  >  </div>
  >  <br>
  > </details>
- 
- <br>
  
  > <details> 
  >  <summary>Player-Tower Interaction</summary>
  >  <div align="center">
  >  Players can pick up towers by pressing the respective key that shows up and also place them. As it is a local multiplayer game the key depends on the player.
- >  <img width="100%" height="auto" src="">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229515511-1569be7d-8551-41d0-93f8-833a62f2ff9c.gif">
  >  </div>
  >  <br>
  > </details>
-  
- <br>
- 
+
  > <details> 
  >  <summary>Collect Coins</summary>
  >  <div align="center">
  >  Players can collect coins by running through them. These coins can be used to buy upgrades for towers.
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505912-eed1e5df-42a1-4cf4-830d-ad9d248848bb.gif">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505912-eed1e5df-42a1-4cf4-830d-ad9d248848bb.gif">
  >  </div>
  >  <br>
  > </details>
-   
- <br>
- 
+
  > <details> 
  >  <summary>Enemies</summary>
  >  <div align="center">
  >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503736-d5b552b3-51f9-48bd-8676-e5e056b45837.png">
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
  >  </div>
  >  <br>
  > </details>
-   
- <br>
- 
+
  > <details> 
  >  <summary>Wave Manager</summary>
  >  <div align="center">
  >  Is used to configure enemy wave spawning for the levels.
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
  >  </div>
  >  <br>
  > </details>
- 
- <br>
- 
+
  > <details> 
  >  <summary>Tools</summary>
  >  <div align="center">
  >  Random Object Placement
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
  >  <br>
  >  Enemy Prefab Creation
- >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
  >  </div>
  >  <br>
  > </details>
