@@ -1,6 +1,5 @@
 ![DwarfTower-01](https://user-images.githubusercontent.com/104200268/229464486-eda42072-7438-4765-875d-38fe7483f765.png)
-<p align="center"><i>DwarfTower</i> is a local multiplayer tower defense game. Players can collect coins to upgrade towers and place towers to defeat enemies. The game plays in a steampunk world and features dwarfs as main characters that try to free and defend their island.</p>
-
+<p align="center"><i>DwarfTower</i> is a local multiplayer tower defense game set in a vibrant steampunk world. As the game's main characters, two dwarfs must defend and free their island by strategically placing towers and defeating waves of enemies. Players can collect coins to upgrade their towers and gain an edge in battle.   </p>            
 <br>
 
 <div align="center">
@@ -61,10 +60,10 @@
  <br>
  <h1>Features</h1>
 <li>Local Multiplayer</li>
-<li>Place Different Towers</li>
+<li>Various Towers</li>
 <li>Collect Coins</li>
 <li>Upgrade Towers</li>
-<li>Defeat Various Enemies</li>
+<li>Multiple Enemies</li>
 <li>Editor Tools</li>
 </div>
 </p>
