@@ -249,7 +249,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 </details>
  <details>
- <summary>Editortool to increase Coins during Play</summary>
+ <summary>Editortool to increase Coins during Runtime to test Upgrades</summary>
  
  > ```csharp
  > 
