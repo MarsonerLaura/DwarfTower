@@ -98,88 +98,156 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <p>
 <h1>Additional Information</h1>
 
-<!--
 <h2>Code Snippets</h2>
 
-
 <details>
- <summary>Leaderboard Code Snippets</summary>
- 
- > <details> 
- >  <summary>Leaderboard Activity class that collects all users and displays them sortet by XP Points</summary>
+ <summary> `The SpawnManager.cs` is handles the Wavemanagement</summary>
  >
- > ```java
- > public class LeaderboardActivity extends AppCompatActivity {
- >     private RecyclerView mRecyclerView;
- >     private LeaderboardAdapter mRecyclerAdapter;
- >     List<SetViewItem> items = new ArrayList<>();
- >     ArrayList<User> users = new ArrayList<User>();
- >     String name = "",xp = "";
- >     private final Gson gson = new Gson();
- >
- >     //Sets the layout and displays the users sortet by XP
- >     @Override
- >     protected void onCreate(Bundle savedInstanceState) {
- >         super.onCreate(savedInstanceState);
- >         setContentView(R.layout.activity_leaderboard);
- >         mRecyclerView = (RecyclerView) findViewById(R.id.leaderboard_recyclerview);
- >         mRecyclerAdapter = new LeaderboardAdapter(users);
- >         final LinearLayoutManager layoutManager = new LinearLayoutManager(this);
- >         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
- >         mRecyclerView.setLayoutManager(layoutManager);
- >         mRecyclerView.setAdapter(mRecyclerAdapter);
- >
- >         fetchUsers();
- >         sortUsersByXp();
- >         mRecyclerAdapter.notifyData(users);
+ > ```csharp
+ > 
+ > public class SpawnManager : MonoBehaviour
+ > {
+ >     [System.Serializable]
+ >     private class EnemyToSpawn
+ >     {
+ >         public int enemyId;
+ >         public float secondsUntilSpawn;
+ >         public int spawnpointId;
  >     }
  >
- >     //Fetches the userdata from the database
- >     private void fetchUsers() {
- >         HTTPGetter get = new HTTPGetter();
- >         get.execute("user", "getAll");
- >         try {
- >             String getUserResult = get.get();
- >             if (!getUserResult.equals("{ }")) {
- >                 User[]userArr= gson.fromJson(getUserResult, User[].class);
- >                 for (User user : userArr){
- >                     users.add(user);
- >                 }
+ >     [System.Serializable]
+ >     private class Wave
+ >     {
+ >         public float secondsUntilStart;
+ >         public List<EnemyToSpawn> enemiesToSpawn = new List<EnemyToSpawn>();
+ >     }
+ >
+ >     [SerializeField] private Transform parentOfEnemies;
+ >
+ >     [SerializeField] private EnemyMovementManager movementManager;
+ >
+ >     [SerializeField] private List<GameObject> spawnPoints = new List<GameObject>();
+ >
+ >     [SerializeField] private List<GameObject> enemies = new List<GameObject>();
+ >
+ >     [SerializeField] private List<Wave> waves = new List<Wave>();
+ >
+ >     [SerializeField] float countdown;
+ >
+ >     GameObject currentEnemyToSpawn;
+ >     GameObject currentSpawnPoint;
+ >     int nextEnemyToSpawnId;
+ >     int currentWaveId;
+ >     bool finished = false;
+ >
+ >     private void Awake()
+ >     {
+ >         if (waves.Count > 0)
+ >         {
+ >             if (waves[0].enemiesToSpawn.Count > 0)
+ >             {
+ >                 countdown = waves[0].secondsUntilStart + waves[0].enemiesToSpawn[0].secondsUntilSpawn;
+ >                 currentEnemyToSpawn = enemies[waves[0].enemiesToSpawn[0].enemyId];
+ >                 currentSpawnPoint = spawnPoints[waves[0].enemiesToSpawn[0].spawnpointId];
+ >                 nextEnemyToSpawnId = 1;
+ >                 currentWaveId = 0;
  >             }
- >         } catch (ExecutionException e) {
- >             e.printStackTrace();
- >         } catch (InterruptedException e) {
- >             e.printStackTrace();
+ >             else
+ >             {
+ >                 Debug.Log("List of enemies to spawn is empty!");
+ >             }
+ >         }
+ >         else
+ >         {
+ >             Debug.Log("List of waves is empty!");
  >         }
  >     }
  >
- >     //Sorts the Users by XP points
- >     private void sortUsersByXp(){
- >         Collections.sort(users);
+ >     void Update()
+ >     {
+ >         if (!finished)
+ >         {
+ >             countdown -= Time.deltaTime;
+ >             if (countdown <= 0)
+ >             {
+ >                 HandleWave();
+ >             }
+ >         }
+ >     }
+ >
+ >     private void HandleWave()
+ >     {
+ >         //if current wave has no more enemies, set next wave and reset enemyToSpawn
+ >         if (nextEnemyToSpawnId >= waves[currentWaveId].enemiesToSpawn.Count)
+ >         {
+ >             if (currentWaveId + 1 >= waves.Count)
+ >             {
+ >                 finished = true;
+ >             }
+ >             else
+ >             {
+ >                 currentWaveId++;
+ >                 nextEnemyToSpawnId = 0;
+ >                 countdown = waves[currentWaveId].secondsUntilStart;
+ >                 SpawnEnemy();
+ >             }
+ >         }
+ >         else
+ >         {
+ >             SpawnEnemy();
+ >         }
+ >     }
+ >
+ >     /*
+ >      * Spawns currentEnemyToSpawn at currentSpawnPoint
+ >      * Sets countdown, currentEnemyToSpawn and currentSpawnPoint to next in enemiesToSpawn
+ >      * Sets finished to true if the end of the list is reached
+ >      */
+ >     private void SpawnEnemy()
+ >     {
+ >         //Spawn Enemy at SpawnPoint
+ >         currentEnemyToSpawn.transform.position = currentSpawnPoint.transform.position;
+ >         GameObject instantiatedEnemie = Instantiate(currentEnemyToSpawn,parentOfEnemies);
+ >
+ >         //Move Enemy
+ >         EnemyMovementSubscriber instantsOfMovement = instantiatedEnemie.GetComponent<EnemyMovementSubscriber>();
+ >         instantsOfMovement.Pathnr = spawnPoints.IndexOf(currentSpawnPoint);
+ >         instantsOfMovement.MovementManager = movementManager;
+ >         instantsOfMovement.Subscribe();
+ >
+ >         //check if endOfList is reached 
+ >         if (nextEnemyToSpawnId >= waves[currentWaveId].enemiesToSpawn.Count)
+ >         {
+ >             Debug.Log("No enemies in this wave.");
+ >         }
+ >         //else update variables
+ >         else
+ >         {
+ >             EnemyToSpawn nextEnemy = waves[currentWaveId].enemiesToSpawn[nextEnemyToSpawnId];
+ >             countdown += nextEnemy.secondsUntilSpawn;
+ >             if (enemies.Count > nextEnemy.enemyId)
+ >             {
+ >                 currentEnemyToSpawn = enemies[nextEnemy.enemyId];
+ >             }
+ >             else
+ >             {
+ >                 Debug.Log("Id of next enemy to spawn greater than the size of the list of enemies.");
+ >             }
+ >             if (spawnPoints.Count > nextEnemy.spawnpointId)
+ >             {
+ >                 currentSpawnPoint = spawnPoints[nextEnemy.spawnpointId];
+ >             }
+ >             else
+ >             {
+ >                 Debug.Log("Id of next spawnPoint greater than the size of the list of spawnPoints.");
+ >             }
+ >             nextEnemyToSpawnId++;
+ >         }
  >     }
  > }
  > ```
- > </details> 
 
 </details>
-
- 
- 
-<details>
- <summary>Presentation</summary>
- <br>
- 
- >  <div align="center">
- >  To summarize the features and technologies used the final presentation is linked below:
- >  <br>
- >
- >  [Präsentation Social Gaming.pdf](https://github.com/MarsonerLaura/PuzzleHunt/files/11132678/Prasentation.Social.Gaming.pdf)
- > </div>
- > <br>
- 
-</details> 
--->
-<h2>Feature Descriptions & Code Snippets</h2>
 
 <h2>Game Design Process</h2>
 <details>
