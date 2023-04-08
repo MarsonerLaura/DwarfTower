@@ -101,8 +101,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <h2>Code Snippets</h2>
 
 <details>
- <summary> `The SpawnManager.cs` is handles the Wavemanagement</summary>
- >
+ <summary>The SpawnManager script handles the Wavemanagement</summary>
+ 
  > ```csharp
  > 
  > public class SpawnManager : MonoBehaviour
@@ -248,7 +248,55 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > ```
 
 </details>
+ <details>
+ <summary>Editortool to increase Coins during Play</summary>
+ 
+ > ```csharp
+ > 
+ > public class CoinIncrease : EditorWindow
+ > {
+ >     int coinCount = 0;
+ >
+ >     [MenuItem("Tools / Add Coins")]
+ >     public static void ShowWindow()
+ >     {
+ >         EditorWindow.GetWindow(typeof(CoinIncrease));
+ >     }
+ >
+ >     private void OnGUI()
+ >     {
+ >         GUILayout.Label("Base Settings", EditorStyles.boldLabel);
+ >         coinCount = EditorGUILayout.IntField("Coin Count", coinCount);
+ >         GUI.backgroundColor = Color.red;
+ >
+ >         GUILayout.FlexibleSpace();
+ >         EditorGUILayout.BeginHorizontal();
+ >         GUILayout.FlexibleSpace();
+ > 
+ >         if(GUILayout.Button("Reset", GUILayout.Width(100), GUILayout.Height(30)))
+ >         {
+ >             reset();
+ >         }
+ >
+ >         if (GUILayout.Button("Apply", GUILayout.Width(100), GUILayout.Height(30)))
+ >         {
+ >             CoinBag.IncreaseCoinCount(coinCount);
+ >             reset();
+ >         }
+ >
+ >         EditorGUILayout.EndHorizontal();
+ >     }
+ >
+ >     private void reset()
+ >     {
+ >         coinCount = 0;
+ >     }
+ > }
+ >
+ > ```
 
+</details>
+ 
 <h2>Game Design Process</h2>
 <details>
  <summary>Story</summary>
