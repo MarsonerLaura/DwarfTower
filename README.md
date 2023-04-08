@@ -96,7 +96,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 ---
 
 <p>
-<h1>Additional Details</h1>
+<h1>Additional Information</h1>
 
 <!--
 <h2>Code Snippets</h2>
@@ -179,6 +179,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
 </details> 
 -->
+<h2>Feature Descriptions & Code Snippets</h2>
 
 <h2>Game Design Process</h2>
 <details>
