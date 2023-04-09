@@ -32,8 +32,7 @@
 
 <p>
  <div>
- <img align="right" width="48%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763653-4ba91f03-0fc1-421c-aa91-858e4f9fce36.gif">
- <br>
+ <img align="right" width="49%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763653-4ba91f03-0fc1-421c-aa91-858e4f9fce36.gif">
  <br>
  <h1>Responsibilities</h1>
  <li>Level Design</li>
