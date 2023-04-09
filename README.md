@@ -98,9 +98,15 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <summary>Towers</summary>
  <br>
  
- >  <div align="center">
- >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
- >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ > <div align="center">
+ > The game includes various towers, each with unique abilities that players can pick up, move around, place strategically, and upgrade. Currently, there exist two distinct types of towers. 
+ > The ElectroTower, launches projectiles at enemies to cause damage. 
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766835-b87e7a1a-8f41-4769-943c-2bda2dcc3b09.gif">
+ > <br>
+ > Another tower available in the game is the SpeedBuffTower. When players are within its range, they receive a temporary increase in movement speed. However, this buff slowly diminishes once they move out of the tower's range. To indicate the buff's presence, particle effects appear around the players' feet.
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766837-7f5e5f79-af3c-4738-b6a6-315a465b65ca.gif">
  > </div>
  > <br>
  
@@ -110,7 +116,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <summary>Collect Coins</summary>
  <br>
  
- >  <div align="center">
+ >  <![CollectCoins](https://user-images.githubusercontent.com/104200268/230766841-c04e7d75-4396-4502-a363-d651a71fc7c5.gif)
+div align="center">
  >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
  >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
  > </div>
@@ -119,9 +126,12 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 </details> 
 
 <details>
- <summary>Upgrades</summary>
- <br>
- 
+ <summary>Upgrades</summary>![PlaceOnUpgrade](https://user-images.githubusercontent.com/104200268/230766894-834dad10-084a-4010-a119-0966806a49a7.gif)
+
+ <br>![PlaceUpgradedTower](https://user-images.githubusercontent.com/104200268/230766885-17366d5d-17ea-4ade-8657-a2aa82306d96.gif)
+
+ ![UpgradeTower](https://user-images.githubusercontent.com/104200268/230766877-5784bcdd-7b3e-4bda-889b-89b1bd8c3c2e.gif)
+
  >  <div align="center">
  >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
  >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
@@ -133,7 +143,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Local Multiplayer</summary>
  <br>
- 
+ ![Interaction](https://user-images.githubusercontent.com/104200268/230766896-ea3e574d-2b79-422a-88f5-0fc5b0cd174a.gif)
+![PlayTogether](https://user-images.githubusercontent.com/104200268/230766902-424a0e98-cc68-4088-86f0-2f86f8d5a425.gif)
+
  >  <div align="center">
  >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
  >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
@@ -145,7 +157,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Enemies</summary>
  <br>
- 
+ ![EnemySpawnTop](https://user-images.githubusercontent.com/104200268/230766927-85c2b25d-e466-4c06-a3f9-925204aebd67.gif)
+![EnemySpawnLeft](https://user-images.githubusercontent.com/104200268/230766936-877af472-361b-4fa2-b512-c2016b785447.gif)
+
  >  <div align="center">
  >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
  >  <br>
