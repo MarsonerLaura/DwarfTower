@@ -178,7 +178,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  The enemies spawn from a green glowing portal or mist and begin moving along the designated path.
  >  <br>
- >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230767976-8d8998ef-3519-46fe-8e33-c127c37fe211.gif">
+ >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/230767976-8d8998ef-3519-46fe-8e33-c127c37fe211.gif">
  >  </div>
  >  <br>
  
