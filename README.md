@@ -92,7 +92,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <p>
 <h1>Additional Information</h1>
 
-<h2>Feature Descriptions & Code Snippets</h2>
+<h2>Feature Descriptions</h2>
 
 <details>
  <summary>Towers</summary>
@@ -155,7 +155,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
 </details> 
 
-
+<h2>Code Snippets</h2>
 
 <details>
  <summary>The SpawnManager script handles the Wavemanagement</summary>
@@ -418,6 +418,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 
 <details> 
  <summary>Tools</summary>
+ 
  > <details> 
  >  <summary>Random Object Placement</summary>
  >  <div align="center">
@@ -436,7 +437,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  > </deatails>
  
-  > <details> 
+ > <details> 
  >  <summary>Coin Increaser</summary>
  >  <div align="center">
  >  Is used to configure enemy wave spawning for the levels.
@@ -455,6 +456,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  >  <br>
  > </details>
+ 
 </details> 
  
 <details>
