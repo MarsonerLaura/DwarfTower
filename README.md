@@ -16,7 +16,8 @@
 ---
 
 <p>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229472589-dbc11e4c-ef85-468f-9c81-d3d469900246.png">
+
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763647-62259de2-f30c-4637-b48d-8b4aab7822c5.gif">
  <br>
  <br>
 <h1>About</h1>
@@ -34,8 +35,9 @@
 <br>
 
 <p>
+
 <div>
-<img align="right" width="47%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
+<img align="right" width="47%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763653-4ba91f03-0fc1-421c-aa91-858e4f9fce36.gif">
 <br>
  <br>
 <h1>Responsibilities</h1>
@@ -54,7 +56,7 @@
  
 <p>
 <div>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229357404-977edd8f-7a90-4829-9a33-8aa3956f8cfb.jpg">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763661-6976390f-735d-4de8-88e1-d04ea3b4ea1d.gif">
 <br>
  <br>
  <br>
