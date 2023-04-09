@@ -402,7 +402,6 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Towers</summary>
  >  <div align="center">
- >  The Electro Tower shoots bullets that target and follow enemies and damage them.
  >  Electro Tower Before
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517032-fa907571-e919-455f-9ae0-9d2885f9b976.gif">
@@ -426,7 +425,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Player-Tower Interaction</summary>
  >  <div align="center">
- >  Players can pick up towers by pressing the respective key that shows up and also place them. As it is a local multiplayer game the key depends on the player.
+ >  In the game, players can pick up and place towers by pressing the corresponding key that appears on their screen. As it is a local multiplayer game, the key required for interaction varies depending on the player.
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229515511-1569be7d-8551-41d0-93f8-833a62f2ff9c.gif">
  >  </div>
@@ -436,7 +435,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Collect Coins</summary>
  >  <div align="center">
- >  Players can collect coins by running through them. These coins can be used to buy upgrades for towers.
+ >  Players can gather coins by simply running over them, which can then be utilized to purchase upgrades for their towers.
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229505912-eed1e5df-42a1-4cf4-830d-ad9d248848bb.gif">
  >  </div>
@@ -449,18 +448,10 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <summary>Tools</summary>
  
  > <details> 
- >  <summary>Random Object Placement</summary>
- >  <div align="center">
- >  <br>
- >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
- >  </div>
- >  <br>
- > </deatails>
- 
- > <details> 
  >  <summary>Enemy Prefab Creation</summary>
  >  <div align="center">
  >  <br>
+ >  The game development tool simplifies the process of creating new enemies by allowing for the configuration of all essential variables in a single window. If not specified, the tool automatically creates a prefab variant with default values. Developers can select a name and input their desired values for the new enemy, and the tool will adjust the variables in the scripts accordingly, producing a new prefab variant of the base enemy with the altered values.
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
  >  </div>
  >  <br>
@@ -469,9 +460,9 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Coin Increaser</summary>
  >  <div align="center">
- >  Is used to configure enemy wave spawning for the levels.
+ >  Developers can use this tool to add coins during runtime, making it ideal for testing the upgrade function without needing to collect a significant amount of coins. This can accelerate the testing process and streamline the development cycle.
  >  <br>
- >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/230770557-3e53463a-f7e6-4a99-9914-6b0d503bcc5a.png">
  >  </div>
  >  <br>
  > </details>
@@ -479,12 +470,32 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Wave Manager</summary>
  >  <div align="center">
- >  Is used to configure enemy wave spawning for the levels.
+ >  The tool is utilized to configure enemy wave spawning for the game's various levels, allowing developers to create challenging and engaging gameplay experiences for players.
  >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
  >  </div>
  >  <br>
  > </details>
+ 
+ > <details> 
+ >  <summary>Tower Radius Display</summary>
+ >  <div align="center">![image1](https://user-images.githubusercontent.com/104200268/230770309-c4e6a415-2113-4fe6-b184-144e43a316f1.gif)
+ >  The tool is a valuable asset for developers, as it provides a visual representation of the range of towers. By updating the serialized radius variable, developers can quickly and easily adjust the tower range without having to change the script each time. This streamlines the development process and saves time, allowing for faster iteration and testing.
+ >  <br>
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
+ >  </div>
+ >  <br>
+ > </details>
+ 
+ > <details> 
+ >  <summary>Object Spawner</summary>
+ >  <div align="center">
+ >  Spawns a specified number of objects with random position, rotation, and scale. It checks for collisions and allows for the addition of a parent for the objects. The engine issues a warning if critical boxes are missing and disables the button in such cases.
+ >  <br>
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
+ >  </div>
+ >  <br>
+ > </deatails>
  
 </details> 
  
