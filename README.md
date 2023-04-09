@@ -25,7 +25,7 @@
  <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Level Designer</li>
  <li><b>Duration:</b>&emsp;&emsp;3 Weeks</li>
  <li><b>Group Size:</b>&emsp;2</li>
- <li><b>Engine:</b>&emsp;Unity</li>
+ <li><b>Engine:</b>&emsp;&emsp;&emsp;Unity</li>
  <li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Local Multiplayer Tower Defense</li>
  <li><b>Platform:</b>&emsp;&emsp;PC</li>
  <li><b>Context:</b>&emsp;&emsp;&nbsp;Level Engineering Course</li>
