@@ -16,38 +16,34 @@
 ---
 
 <p>
- 
-<img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230764988-25ede94c-ac1d-4e1a-b506-74f9dc4e0c7a.gif">
+ <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230764988-25ede94c-ac1d-4e1a-b506-74f9dc4e0c7a.gif">
  <br>
- <br>
-<h1>About</h1>
-<li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Level Designer</li>
-<li><b>Duration:</b>&emsp;&emsp;3 Weeks</li>
-<li><b>Group Size:</b>&emsp;2</li>
-<li><b>Engine:</b>&emsp;Unity</li>
-<li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Local Multiplayer Tower Defense</li>
-<li><b>Platform:</b>&emsp;&emsp;PC</li>
-<li><b>Context:</b>&emsp;&emsp;&nbsp;Level Engineering Course</li>
+ <h1>About</h1>
+ <li><b>Role:</b>&emsp;&emsp;&emsp;&emsp;Programmer, Level Designer</li>
+ <li><b>Duration:</b>&emsp;&emsp;3 Weeks</li>
+ <li><b>Group Size:</b>&emsp;2</li>
+ <li><b>Engine:</b>&emsp;Unity</li>
+ <li><b>Genre:</b>&emsp;&emsp;&emsp;&nbsp;Local Multiplayer Tower Defense</li>
+ <li><b>Platform:</b>&emsp;&emsp;PC</li>
+ <li><b>Context:</b>&emsp;&emsp;&nbsp;Level Engineering Course</li>
 </p>
 
 <br>
-<br>
 
 <p>
-
-<div>
-<img align="right" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763653-4ba91f03-0fc1-421c-aa91-858e4f9fce36.gif">
-<br>
+ <div>
+ <img align="right" width="48%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763653-4ba91f03-0fc1-421c-aa91-858e4f9fce36.gif">
  <br>
-<h1>Responsibilities</h1>
-<li>Level Design</li>
-<li>Wavemanager implementation</li>
-<li>Enemies (Creation Tool, Animations)</li>
-<li>Towers (Attacks, Animations, VFX)</li>
-<li>Light baking & Post Processing</li>
-<li>Prototyping</li>
-<br>
-</div>
+ <br>
+ <h1>Responsibilities</h1>
+ <li>Level Design</li>
+ <li>Wavemanager implementation</li>
+ <li>Enemies (Creation Tool, Animations)</li>
+ <li>Towers (Attacks, Animations, VFX)</li>
+ <li>Light baking & Post Processing</li>
+ <li>Prototyping</li>
+ <br>
+ </div>
 </p>
 
 <br>
