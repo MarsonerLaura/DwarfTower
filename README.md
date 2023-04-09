@@ -1,21 +1,24 @@
 ![DwarfTower-01](https://user-images.githubusercontent.com/104200268/229464486-eda42072-7438-4765-875d-38fe7483f765.png)
-<p align="center"><i>DwarfTower</i> is a local multiplayer tower defense game set in a vibrant steampunk world. As the game's main characters, two dwarfs must defend and free their island by strategically placing towers and defeating waves of enemies. Players can collect coins to upgrade their towers and gain an edge in battle.   </p>            
+<p align="center">
+ <i>DwarfTower</i> is a local multiplayer tower defense game set in a vibrant steampunk world. As the game's main characters, two dwarfs must defend and free their island by strategically placing towers and defeating waves of enemies. Players can collect coins to upgrade their towers and gain an edge in battle.   
+</p>         
+
 <br>
 
 <div align="center">
  
-`Unity`
-`C#`
-`UnityCollab`
-`Rider`
-`Krita`
-
+ `Unity`
+ `C#`
+ `UnityCollab`
+ `Rider`
+ `Krita`
 
 </div>
 
 ---
 
 <p>
+
  <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230764988-25ede94c-ac1d-4e1a-b506-74f9dc4e0c7a.gif">
  <br>
  <h1>About</h1>
@@ -65,7 +68,7 @@
 ---
 
 
- <a href="https://www.youtube.com/watch?v=0X8kur32egw&ab_channel=LukasPichler" target="_blank"><img src="https://user-images.githubusercontent.com/104200268/227638337-fd73fd4e-50a8-41b3-9bd4-4d418f4fe416.png" 
+ <a href="https://www.youtube.com/watch?v=0X8kur32egw&ab_channel=LukasPichler" target="_blank"><img src="https://user-images.githubusercontent.com/104200268/230765521-6a3f6012-fe9d-456b-9aa7-8c7365a576cf.PNG" 
 alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="10" /></a>
 <br>
  <br>
