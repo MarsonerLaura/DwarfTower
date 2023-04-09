@@ -44,24 +44,20 @@
  <br>
  </div>
 </p>
-
-<br>
- <br>
  
 <p>
-<div>
-<img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763661-6976390f-735d-4de8-88e1-d04ea3b4ea1d.gif">
-<br>
+ <div>
+ <img align="left" width="53%" height="auto" src="https://user-images.githubusercontent.com/104200268/230765319-bf96018e-9f80-4d79-82e5-7787b9bc4b29.gif">
  <br>
  <br>
  <h1>Features</h1>
-<li>Local Multiplayer</li>
-<li>Various Towers</li>
-<li>Collect Coins</li>
-<li>Upgrade Towers</li>
-<li>Multiple Enemies</li>
-<li>Editor Tools</li>
-</div>
+ <li>Local Multiplayer</li>
+ <li>Various Towers</li>
+ <li>Collect Coins</li>
+ <li>Upgrade Towers</li>
+ <li>Multiple Enemies</li>
+ <li>Editor Tools</li>
+ </div>
 </p>
 
 <br>
