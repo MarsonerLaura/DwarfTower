@@ -69,7 +69,7 @@
 
 
  <a href="https://www.youtube.com/watch?v=0X8kur32egw&ab_channel=LukasPichler" target="_blank"><img src="https://user-images.githubusercontent.com/104200268/230765521-6a3f6012-fe9d-456b-9aa7-8c7365a576cf.PNG" 
-alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="10" /></a>
+alt="Watch Trailer on YouTube" align="right" width="50%" height="auto" border="10" /></a>
 <br>
  <br>
   <br>
