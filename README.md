@@ -104,6 +104,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <br>
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766835-b87e7a1a-8f41-4769-943c-2bda2dcc3b09.gif">
  > <br>
+ > <br>
  > Another tower available in the game is the SpeedBuffTower. When players are within its range, they receive a temporary increase in movement speed. However, this buff slowly diminishes once they move out of the tower's range. To indicate the buff's presence, particle effects appear around the players' feet.
  > <br>
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766837-7f5e5f79-af3c-4738-b6a6-315a465b65ca.gif">
