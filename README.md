@@ -17,7 +17,7 @@
 
 <p>
 
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763647-62259de2-f30c-4637-b48d-8b4aab7822c5.gif">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/230763744-7f0c6291-89ed-466c-ba22-e732ae091f4c.gif">
  <br>
  <br>
 <h1>About</h1>
