@@ -485,7 +485,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  The tool is a valuable asset for developers, as it provides a visual representation of the range of towers. By updating the serialized radius variable, developers can quickly and easily adjust the tower range without having to change the script each time. This streamlines the development process and saves time, allowing for faster iteration and testing.
  >  <br>
- >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/230770309-c4e6a415-2113-4fe6-b184-144e43a316f1.gif">
+ >  <img width="100%" height="auto" src="https://user-images.githubusercontent.com/104200268/230770309-c4e6a415-2113-4fe6-b184-144e43a316f1.gif">
  >  </div>
  >  <br>
  > </details>
