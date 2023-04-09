@@ -410,7 +410,6 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229517170-927ce515-75e3-4a05-a1cb-adbf21cfc0f6.gif">
  >  <br>
- >  The Speed Tower speeds up the players that are in range which helps them collect coins and move towers faster.
  >  Speed Tower Before
  >  <br>
  >  <img width="90%" height="auto" src="https://user-images.githubusercontent.com/104200268/229516308-b7b7e6b4-65df-406a-a560-cf7fe25a60c1.gif">
@@ -452,6 +451,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  <div align="center">
  >  <br>
  >  The game development tool simplifies the process of creating new enemies by allowing for the configuration of all essential variables in a single window. If not specified, the tool automatically creates a prefab variant with default values. Developers can select a name and input their desired values for the new enemy, and the tool will adjust the variables in the scripts accordingly, producing a new prefab variant of the base enemy with the altered values.
+ >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
  >  </div>
  >  <br>
@@ -460,6 +460,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Coin Increaser</summary>
  >  <div align="center">
+ >  <br>
  >  Developers can use this tool to add coins during runtime, making it ideal for testing the upgrade function without needing to collect a significant amount of coins. This can accelerate the testing process and streamline the development cycle.
  >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/230770557-3e53463a-f7e6-4a99-9914-6b0d503bcc5a.png">
@@ -470,6 +471,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Wave Manager</summary>
  >  <div align="center">
+ >  <br>
  >  The tool is utilized to configure enemy wave spawning for the game's various levels, allowing developers to create challenging and engaging gameplay experiences for players.
  >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
@@ -479,10 +481,11 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  
  > <details> 
  >  <summary>Tower Radius Display</summary>
- >  <div align="center">![image1](https://user-images.githubusercontent.com/104200268/230770309-c4e6a415-2113-4fe6-b184-144e43a316f1.gif)
+ >  <div align="center">
+ >  <br>
  >  The tool is a valuable asset for developers, as it provides a visual representation of the range of towers. By updating the serialized radius variable, developers can quickly and easily adjust the tower range without having to change the script each time. This streamlines the development process and saves time, allowing for faster iteration and testing.
  >  <br>
- >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/230770309-c4e6a415-2113-4fe6-b184-144e43a316f1.gif">
  >  </div>
  >  <br>
  > </details>
@@ -490,6 +493,7 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <details> 
  >  <summary>Object Spawner</summary>
  >  <div align="center">
+ >  <br>
  >  Spawns a specified number of objects with random position, rotation, and scale. It checks for collisions and allows for the addition of a parent for the objects. The engine issues a warning if critical boxes are missing and disables the button in such cases.
  >  <br>
  >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
