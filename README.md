@@ -92,7 +92,70 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <p>
 <h1>Additional Information</h1>
 
-<h2>Code Snippets</h2>
+<h2>Feature Descriptions & Code Snippets</h2>
+
+<details>
+ <summary>Towers</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ > </div>
+ > <br>
+ 
+</details> 
+
+<details>
+ <summary>Collect Coins</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ > </div>
+ > <br>
+ 
+</details> 
+
+<details>
+ <summary>Upgrades</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ > </div>
+ > <br>
+ 
+</details> 
+
+<details>
+ <summary>Local Multiplayer</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ > </div>
+ > <br>
+ 
+</details> 
+
+<details>
+ <summary>Enemies</summary>
+ <br>
+ 
+ >  <div align="center">
+ >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
+ >  <br>
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
+ >  </div>
+ >  <br>
+ 
+</details> 
+
+
 
 <details>
  <summary>The SpawnManager script handles the Wavemanagement</summary>
@@ -350,17 +413,39 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  >  <br>
  > </details>
+ 
+</details> 
 
+<details> 
+ <summary>Tools</summary>
  > <details> 
- >  <summary>Enemies</summary>
+ >  <summary>Random Object Placement</summary>
  >  <div align="center">
- >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
  >  <br>
- >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
+ >  </div>
+ >  <br>
+ > </deatails>
+ 
+ > <details> 
+ >  <summary>Enemy Prefab Creation</summary>
+ >  <div align="center">
+ >  <br>
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
+ >  </div>
+ >  <br>
+ > </deatails>
+ 
+  > <details> 
+ >  <summary>Coin Increaser</summary>
+ >  <div align="center">
+ >  Is used to configure enemy wave spawning for the levels.
+ >  <br>
+ >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503687-a79e35d8-4ac1-4047-9ebb-5c0f7ed9c445.png">
  >  </div>
  >  <br>
  > </details>
-
+ 
  > <details> 
  >  <summary>Wave Manager</summary>
  >  <div align="center">
@@ -370,23 +455,8 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  >  </div>
  >  <br>
  > </details>
-
- > <details> 
- >  <summary>Tools</summary>
- >  <div align="center">
- >  Random Object Placement
- >  <br>
- >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503592-1c498c77-49b8-434a-8c7a-d58390f9f26d.png">
- >  <br>
- >  Enemy Prefab Creation
- >  <br>
- >  <img width="70%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503608-927cfed7-3d73-4657-a142-e3d01d6c657a.png">
- >  </div>
- >  <br>
- > </details>
- 
 </details> 
-
+ 
 <details>
  <summary>Level Design Process</summary>
  <br>
