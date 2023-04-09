@@ -117,25 +117,32 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  <summary>Collect Coins</summary>
  <br>
  
- >  <![CollectCoins](https://user-images.githubusercontent.com/104200268/230766841-c04e7d75-4396-4502-a363-d651a71fc7c5.gif)
-div align="center">
- >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
- >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ > <div align="center">
+ >  In the game, players can gather coins by simply running over them. The collected coins are required for upgrading the towers in the game.
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766841-c04e7d75-4396-4502-a363-d651a71fc7c5.gif">
  > </div>
  > <br>
  
 </details> 
 
 <details>
- <summary>Upgrades</summary>![PlaceOnUpgrade](https://user-images.githubusercontent.com/104200268/230766894-834dad10-084a-4010-a119-0966806a49a7.gif)
-
- <br>![PlaceUpgradedTower](https://user-images.githubusercontent.com/104200268/230766885-17366d5d-17ea-4ade-8657-a2aa82306d96.gif)
-
- ![UpgradeTower](https://user-images.githubusercontent.com/104200268/230766877-5784bcdd-7b3e-4bda-889b-89b1bd8c3c2e.gif)
-
- >  <div align="center">
- >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
- >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ <summary>Upgrades</summary>
+ <br>
+ 
+ > <div align="center">
+ >  Once players have collected sufficient coins, they can upgrade their towers by placing them on the designated upgrade field.
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766894-834dad10-084a-4010-a119-0966806a49a7.gif">
+ > <br>
+ > The game offers various types of upgrades, such as increasing the tower's range or the damage dealt by its projectiles. Players can select a specific upgrade by clicking on the corresponding option.
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766877-5784bcdd-7b3e-4bda-889b-89b1bd8c3c2e.gif">
+ > <br>
+ >  Once the upgrades are complete, players can pick up their towers and strategically place them on the map. The following gif displays a fully upgraded tower in action.
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766885-17366d5d-17ea-4ade-8657-a2aa82306d96.gif">
+ > <br>
  > </div>
  > <br>
  
@@ -144,12 +151,15 @@ div align="center">
 <details>
  <summary>Local Multiplayer</summary>
  <br>
- ![Interaction](https://user-images.githubusercontent.com/104200268/230766896-ea3e574d-2b79-422a-88f5-0fc5b0cd174a.gif)
-![PlayTogether](https://user-images.githubusercontent.com/104200268/230766902-424a0e98-cc68-4088-86f0-2f86f8d5a425.gif)
-
- >  <div align="center">
- >  The story of the game evolves around two dwarf friend engineers that visit their home island and discover that it was run over by an evil force that controlls undead. They start their adventure to collect mechanical parts to construct a big robot that should protect the island. On their jouney they need to defeat different enemies and help bewohners to get to the parts.
- >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229501634-84a928f9-61c4-413d-9cd1-616d261749a8.png">
+ 
+ > <div align="center">
+ > In the game, players can collaborate and divide responsibilities to enhance their gameplay. For instance, one player can focus on moving and placing the towers while the other player collects coins to fund upgrades.
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766902-424a0e98-cc68-4088-86f0-2f86f8d5a425.gif">
+ > <br>
+ > The players can interact with the towers differently, and the corresponding key required for interaction is displayed above the tower.
+ > <br>
+ > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766896-ea3e574d-2b79-422a-88f5-0fc5b0cd174a.gif">
+ > <br>
  > </div>
  > <br>
  
