@@ -135,14 +135,15 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > <br>
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766894-834dad10-084a-4010-a119-0966806a49a7.gif">
  > <br>
+ > <br>
  > The game offers various types of upgrades, such as increasing the tower's range or the damage dealt by its projectiles. Players can select a specific upgrade by clicking on the corresponding option.
  > <br>
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766877-5784bcdd-7b3e-4bda-889b-89b1bd8c3c2e.gif">
  > <br>
+ > <br>
  >  Once the upgrades are complete, players can pick up their towers and strategically place them on the map. The following gif displays a fully upgraded tower in action.
  > <br>
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766885-17366d5d-17ea-4ade-8657-a2aa82306d96.gif">
- > <br>
  > </div>
  > <br>
  
@@ -156,10 +157,10 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
  > In the game, players can collaborate and divide responsibilities to enhance their gameplay. For instance, one player can focus on moving and placing the towers while the other player collects coins to fund upgrades.
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766902-424a0e98-cc68-4088-86f0-2f86f8d5a425.gif">
  > <br>
+ > <br>
  > The players can interact with the towers differently, and the corresponding key required for interaction is displayed above the tower.
  > <br>
  > <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230766896-ea3e574d-2b79-422a-88f5-0fc5b0cd174a.gif">
- > <br>
  > </div>
  > <br>
  
@@ -168,13 +169,16 @@ alt="Watch Trailer on YouTube" align="right" width="60%" height="auto" border="1
 <details>
  <summary>Enemies</summary>
  <br>
- ![EnemySpawnTop](https://user-images.githubusercontent.com/104200268/230766927-85c2b25d-e466-4c06-a3f9-925204aebd67.gif)
-![EnemySpawnLeft](https://user-images.githubusercontent.com/104200268/230766936-877af472-361b-4fa2-b512-c2016b785447.gif)
 
  >  <div align="center">
- >  There exist different types of enemies with different attributes: The Base enemy with average health and speed compared to the oters, the Speedy enemy which is small and fast, the Tanky enemy which is slow and healthy and the Boss enemy which is very slow and tanky. 
+ >  The game features various types of enemies, each possessing unique attributes. These include the Base enemy, which has average health and speed compared to the others; the Speedy enemy, which is small and fast; the Tanky enemy, which is slow and has high health; and the Boss enemy, which is extremely slow and has significant health.
  >  <br>
  >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/229503757-9235d158-c451-4a0a-9e74-95f9fdb5c774.gif">
+ >  <br>
+ >  <br>
+ >  The enemies spawn from a green glowing portal or mist and begin moving along the designated path.
+ >  <br>
+ >  <img width="80%" height="auto" src="https://user-images.githubusercontent.com/104200268/230767976-8d8998ef-3519-46fe-8e33-c127c37fe211.gif">
  >  </div>
  >  <br>
  
